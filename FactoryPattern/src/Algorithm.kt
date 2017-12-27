@@ -1,0 +1,3 @@
+interface Algorithm {
+    fun run()
+}
